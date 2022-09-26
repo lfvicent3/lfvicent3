@@ -1,3 +1,5 @@
+![Contribution](https://activity-graph.herokuapp.com/graph?username=lfvicent3&theme=react-dark&hide_border=true&area=true)
+
 # Hello, I'm Luiz Felipe!
 
 
@@ -18,8 +20,10 @@ My first contact with development was when I was 11 years old, now at 19 I have 
 - Creating themes and plugins from scratch with Wordpress
 
 ## GitHub Stats
-
-![Luiz Felipe V Costa GitHub stats](https://github-readme-stats.vercel.app/api?username=lfvicent3&count_private=true&show_icons=true&theme=radical)
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lfvicent3&show_icons=true&count_private=true&hide_border=true&title_color=5bcdec&icon_color=5bcdec&text_color=c9d1d9&bg_color=0d1117" alt="Luiz Felipe github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfvicent3&layout=compact&hide_border=true&title_color=5bcdec&text_color=5bcdec&bg_color=0d1117" />
+</div>
 
 ## In my work / Technical Skills
 
