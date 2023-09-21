@@ -1,7 +1,7 @@
 # Hello, I'm Luiz Felipe!
 
 
-I'm a Tech in Informatics from [IFES - Federal Institute of Education, Science and Technology of Espiríto Santo](https://ifes.edu.br) and Graduating in Computer Science at [UFV - Federal University of Viçosa](https://ufv.br).
+I'm a Technican in Informatics from [IFES - Federal Institute of Education, Science and Technology of Espiríto Santo](https://ifes.edu.br) and Graduating in Computer Science at [UFV - Federal University of Viçosa](https://ufv.br).
 
 My first contact with development was when I was 11 years old, now at 19 I have my focus mainly on IoT and Mobile development. I'm a real fan of flutter.
 
