@@ -1,2 +1,2 @@
 import 'tw-elements';
-import 'flowbite';
+import 'flowbite'; 
