@@ -3,7 +3,7 @@
 
 I'm a Technican in Informatics from [IFES - Federal Institute of Education, Science and Technology of Espiríto Santo](https://ifes.edu.br) and Graduating in Computer Science at [UFV - Federal University of Viçosa](https://ufv.br).
 
-My first contact with development was when I was 11 years old, now at 19 I have my focus mainly on IoT and Mobile development. I'm a real fan of flutter.
+My first contact with development was when I was 11 years old, now at 20 I have my focus mainly on Python development. I'm a real fan of flutter.
 
 ## My current jobs
 
@@ -15,13 +15,11 @@ My first contact with development was when I was 11 years old, now at 19 I have 
 
 - Flutter in app development
 
-- Creating themes and plugins from scratch with Wordpress
+## Coding hours
+[![wakatime](https://wakatime.com/badge/user/44f460a7-d07d-492b-9865-ef482350e520.svg)](https://wakatime.com/@44f460a7-d07d-492b-9865-ef482350e520)
 
 ## GitHub Stats
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lfvicent3&show_icons=true&count_private=true&hide_border=true&title_color=5bcdec&icon_color=5bcdec&text_color=c9d1d9&bg_color=0d1117" alt="Luiz Felipe github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfvicent3&layout=compact&hide_border=true&title_color=5bcdec&text_color=5bcdec&bg_color=0d1117" />
-</div>
+<img src="https://myreadme.vercel.app/api/embed/lfvicent3?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 ## In my work / Technical Skills
 
