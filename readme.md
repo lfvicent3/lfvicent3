@@ -3,7 +3,7 @@
 
 I'm a Technican in Informatics from [IFES - Federal Institute of Education, Science and Technology of Espiríto Santo](https://ifes.edu.br) and Graduating in Computer Science at [UFV - Federal University of Viçosa](https://ufv.br).
 
-My first contact with development was when I was 11 years old, now at 20 I have my focus mainly on Python development. I'm a real fan of flutter.
+My first contact with development was when I was 11 years old, now at 21 I have my focus mainly on Python development. I'm a real fan of flutter.
 
 ## My current jobs
 
@@ -17,9 +17,6 @@ My first contact with development was when I was 11 years old, now at 20 I have 
 
 ## Coding hours
 [![wakatime](https://wakatime.com/badge/user/44f460a7-d07d-492b-9865-ef482350e520.svg)](https://wakatime.com/@44f460a7-d07d-492b-9865-ef482350e520)
-
-## GitHub Stats
-<img src="https://myreadme.vercel.app/api/embed/lfvicent3?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 ## In my work / Technical Skills
 
